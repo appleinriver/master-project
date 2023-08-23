@@ -1,0 +1,7 @@
+species,redlistCategory,PC1,PC2,PC3,PC4,PC5,PC6
+Neophocaena_phocaenoides_mask,Vulnerable,-0.009758534,-0.003952791,0.003609884,0.000157402,-1.12E-05,9.93E-18
+Phocoena_dioptrica_mask,Least Concern,0.005593306,-0.00374123,-0.000746529,0.001515739,-0.000421133,1.01E-17
+Phocoena_phocoena_mask,Least Concern,0.005167179,-0.003372683,-0.000503751,0.001178469,0.000465643,1.00E-17
+Phocoena_sinus_mask,Critically Endangered,0.006309046,0.001410873,0.001909533,-0.003060092,-2.89E-05,1.03E-17
+Phocoena_spinipinnis_mask,Near Threatened,-0.006259861,-0.000197358,-0.004890052,-0.001246767,-3.39E-06,1.04E-17
+Phocoenoides_dalli_mask,Least Concern,-0.001051136,0.009853189,0.000620915,0.001455249,-9.53E-07,1.08E-17
